@@ -1,0 +1,2 @@
+C:\code\Tests\adapt\adapt\bin\Debug\adapt.exe.config
+C:\code\Tests\adapt\bin\Debug\adapt.exe.config
